@@ -4,11 +4,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jt</groupId>
-	<artifactId>jt-system</artifactId>
+	<artifactId>jt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>jt-system Maven Webapp</name>
+	<name>jt Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -104,7 +104,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>jt-system</finalName>
+		<finalName>jt</finalName>
 	</build>
 
 </project>
