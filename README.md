@@ -1,1 +1,1 @@
-Maven + Spring + SpringMVC + Mybatis + MySQL + Shiro
+Maven + Spring + SpringMVC + Mybatis + MySQL + Druid + Shiro
